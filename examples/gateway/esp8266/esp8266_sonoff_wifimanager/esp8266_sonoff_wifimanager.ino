@@ -6,8 +6,8 @@
  *    Controller Username (MQTT)
  *    Controller Password (MQTT)
  *    SensorOcean Gateway ID
- *    Controller Address
- *    Controller Port
+ *    Controller Address  (mqtt.sensorocean.com)
+ *    Controller Port     (1883)
  *
  *  When the ESP starts up, it sets it up in Station mode and tries to connect to a previously saved Access Point
  *  if this is unsuccessful (or no previous network saved) it moves the ESP into Access Point mode and spins up
