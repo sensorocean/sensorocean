@@ -1,2 +1,2 @@
-# SensorOcean Collaboration
-SensorOcean Collaboration project 
+# SensorOcean Support
+SensorOcean Support project 
