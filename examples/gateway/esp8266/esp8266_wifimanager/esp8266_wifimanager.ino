@@ -61,7 +61,7 @@ char mqtt_subscribe_topic[50] = "";
 #define MY_DEBUG
 #define MY_BAUD_RATE 115200
 #define MY_RADIO_RF24
-#define MY_RF24_CHANNEL 124
+#define MY_RF24_CHANNEL 64
 #define MY_GATEWAY_MQTT_CLIENT
 #define MY_GATEWAY_ESP8266
 #define MY_WIFI_SSID wifi_ssid
