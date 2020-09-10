@@ -2,7 +2,7 @@
 #define MY_BAUD_RATE 115200
 
 #define MY_RADIO_RF24
-#define MY_RF24_CHANNEL 124
+#define MY_RF24_CHANNEL 64
 
 // WIFI SSID and password
 #define MY_WIFI_SSID "your-wifi-ssid"
