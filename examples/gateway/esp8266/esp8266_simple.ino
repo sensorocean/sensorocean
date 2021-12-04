@@ -1,3 +1,10 @@
+/*
+ *  Simple ESP8266 gateway 
+ *  with connection parameters in the code
+ *
+ *  Based on MySensors library (http://www.mysensors.org)
+ */
+
 #define MY_DEBUG
 #define MY_BAUD_RATE 115200
 
