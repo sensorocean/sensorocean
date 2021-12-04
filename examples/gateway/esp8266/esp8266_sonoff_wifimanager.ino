@@ -21,6 +21,11 @@
  *    – Hold the button for 5 seconds: reset module
  *    – Hold the button for 20 seconds: reset the configs, call the configuration mode Access Point.
  *
+ *  Based on MySensors library (http://www.mysensors.org) 
+ *
+ *  This program is free software; you can redistribute it and/or
+ *  modify it under the terms of the GNU General Public License
+ *  version 2 as published by the Free Software Foundation. 
  */
 
 #include <EEPROM.h>
