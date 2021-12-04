@@ -17,7 +17,13 @@
  *  The Config Access Point can be called be a double click of the Reset button of the ESP
  *  (more here https://github.com/datacute/DoubleResetDetector).
  *
- */
+ *  Based on MySensors library (http://www.mysensors.org)
+ *
+ *  This program is free software; you can redistribute it and/or
+ *  modify it under the terms of the GNU General Public License
+ *  version 2 as published by the Free Software Foundation.
+*/
+
 #include <EEPROM.h>
 #include <SPI.h>
 #include <DoubleResetDetector.h>
