@@ -1,6 +1,7 @@
 /*
  *  Geiger Counter
  *  Arduino Nano
+ *  Based on MySensors library (http://www.mysensors.org) 
  *  
  *  This program is free software; you can redistribute it and/or
  *  modify it under the terms of the GNU General Public License
